@@ -92,7 +92,7 @@ Atuar com desenvolvimento Python, backend e automação de processos, contribuin
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/lovangoulart/)
-- **E-mail:** lovangoulart@gmail.com
+- **E-mail:** lovangoulart@hotmail.com
 - [GitHub](https://github.com/LovanGoulart)
 
 ---
