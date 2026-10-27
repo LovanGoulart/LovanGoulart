@@ -63,9 +63,9 @@ Aplicação web que transforma informações de um briefing em um prompt técnic
 
 ### 🍕 Sistema para Pizzaria
 
-Sistema voltado à operação de restaurante, com perfis de caixa, cozinha e garçom.
+Sistema voltado à operação de restaurante, com perfis de caixa, cozinha, garçom, entregador e cliente.
 
-[ Acompanhar o projeto](https://github.com/LovanGoulart/pizzaria)
+[ Acompanhar o projeto](https://github.com/LovanGoulart/restaurante)
 
 ### 📚 Projeto Pedagógico
 
