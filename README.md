@@ -61,7 +61,7 @@ Aplicação web que transforma informações de um briefing em um prompt técnic
 
 ## 🔨 Projetos em desenvolvimento
 
-### 🍕 Sistema para Pizzaria
+### 🍕 Sistema para Restaurante
 
 Sistema voltado à operação de restaurante, com perfis de caixa, cozinha, garçom, entregador e cliente.
 
